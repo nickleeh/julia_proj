@@ -1,3 +1,5 @@
+# problem 1
+
 N = 1000
 
 multipleof(x, upper) = 1:x:upper-1
