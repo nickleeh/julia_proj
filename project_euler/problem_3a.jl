@@ -8,8 +8,8 @@ if n%2 == 0
 	end
 else last_factor = 1
 end
-
 factor = 3
+
 max_factor = sqrt(n)
 while n>1 && factor <= max_factor
 	if n%factor == 0
